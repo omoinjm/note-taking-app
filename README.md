@@ -1,2 +1,2 @@
 # Note Taking App
-[Visit the website on](https://bnl45.csb.app/)
+[Visit the website](https://bnl45.csb.app/)
